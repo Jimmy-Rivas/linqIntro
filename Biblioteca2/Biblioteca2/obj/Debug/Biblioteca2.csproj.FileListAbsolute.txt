@@ -1,0 +1,6 @@
+D:\visualPractica\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.dll
+D:\visualPractica\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+D:\visualPractica\Biblioteca2\Biblioteca2\obj\Debug\Biblioteca2.csproj.AssemblyReference.cache
+D:\visualPractica\Biblioteca2\Biblioteca2\obj\Debug\Biblioteca2.csproj.CoreCompileInputs.cache
+D:\visualPractica\Biblioteca2\Biblioteca2\obj\Debug\Biblioteca2.dll
+D:\visualPractica\Biblioteca2\Biblioteca2\obj\Debug\Biblioteca2.pdb

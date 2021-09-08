@@ -1,0 +1,9 @@
+D:\visualPractica\practica0609\Practica0709\obj\Debug\Practica0709.Form1.resources
+D:\visualPractica\practica0609\Practica0709\obj\Debug\Practica0709.Properties.Resources.resources
+D:\visualPractica\practica0609\Practica0709\obj\Debug\Practica0709.csproj.GenerateResource.cache
+D:\visualPractica\practica0609\Practica0709\obj\Debug\Practica0709.csproj.CoreCompileInputs.cache
+D:\visualPractica\practica0609\Practica0709\bin\Debug\Practica0709.exe.config
+D:\visualPractica\practica0609\Practica0709\bin\Debug\Practica0709.exe
+D:\visualPractica\practica0609\Practica0709\bin\Debug\Practica0709.pdb
+D:\visualPractica\practica0609\Practica0709\obj\Debug\Practica0709.exe
+D:\visualPractica\practica0609\Practica0709\obj\Debug\Practica0709.pdb

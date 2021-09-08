@@ -1,0 +1,10 @@
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\bin\Debug\Uso_De_Libreria.exe.config
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\bin\Debug\Uso_De_Libreria.exe
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\bin\Debug\Uso_De_Libreria.pdb
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\bin\Debug\Biblioteca2.dll
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\bin\Debug\Biblioteca2.pdb
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\obj\Debug\Uso_De_Libreria.csproj.AssemblyReference.cache
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\obj\Debug\Uso_De_Libreria.csproj.CoreCompileInputs.cache
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\obj\Debug\Uso_De_Libreria.csproj.CopyComplete
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\obj\Debug\Uso_De_Libreria.exe
+D:\visualPractica\Biblioteca2\Uso_De_Libreria\obj\Debug\Uso_De_Libreria.pdb

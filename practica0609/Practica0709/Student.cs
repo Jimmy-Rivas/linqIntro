@@ -18,7 +18,7 @@ namespace Practica0709
             List<Student> students = new List<Student>
             {
                 new Student { idStudent = 1001, firstname = "Ana", lastname = "Flores", Age = 22, gender = "Femenino"},
-                new Student { idStudent = 1002, firstname = "Sofia", lastname = "Martinez", Age = 23, gender = "femenino "},
+                new Student { idStudent = 1002, firstname = "Sofia", lastname = "Martinez", Age = 23, gender = "Femenino "},
                 new Student { idStudent = 1003, firstname = "Pedro", lastname = "Canales", Age = 24, gender = "Masculino"},
                 new Student { idStudent = 1004, firstname = "Carlos", lastname = "Gomes", Age = 25, gender = "Masculino"},
                 new Student { idStudent = 1005, firstname = "Daniel", lastname = "Miranda", Age = 26, gender = "Masculino"  },

@@ -1,0 +1,7 @@
+D:\visualPractica\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+D:\visualPractica\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+D:\visualPractica\Parcial\Parcial\bin\Debug\Parcial.exe.config
+D:\visualPractica\Parcial\Parcial\bin\Debug\Parcial.exe
+D:\visualPractica\Parcial\Parcial\bin\Debug\Parcial.pdb
+D:\visualPractica\Parcial\Parcial\obj\Debug\Parcial.exe
+D:\visualPractica\Parcial\Parcial\obj\Debug\Parcial.pdb
